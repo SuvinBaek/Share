@@ -8,7 +8,7 @@
     - All experiments need to be repeated twice.
     - plasmid and cloning training left
 - Progress stage
-    - Nanodrop : ■ □ □
+    - Nanodrop : ■ ■ □
     - LB media : ■ ■ □
     - striking : ■ ■ □
     - cloning : □ □ □
