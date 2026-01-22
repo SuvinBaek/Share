@@ -12,7 +12,7 @@
     - LB media : ■ ■ ■
     - striking : ■ ■ ■ 
     - cloning : ■ □ □
-    - Cell growth : □ □ □
+    - Cell growth : ■ □ □
     - gDNA extract : ■ □ □
     - plasmid extract : ■ □ □
     - gel electrophorsis :  ■ □ □
