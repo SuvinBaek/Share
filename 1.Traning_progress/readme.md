@@ -16,6 +16,7 @@
     - gDNA extract : ■ □ □
     - plasmid extract : ■ □ □
     - gel electrophorsis :  ■ □ □
+    - PCR :  □ □ □
 
 2. Soor - cell free
     - 1/26 (Mon) 1:00-15:30 : theoretical cell-free overview
