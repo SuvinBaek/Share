@@ -19,9 +19,12 @@
     - PCR :  □ □ □
 
 2. Soor - cell free
-    - 1/26 (Mon) 1:00-15:30 : theoretical cell-free overview
-    - 1/27 (Tue) 11:15-16:45
+    - 1/27  1:00-15:30 : theoretical cell-free overview
+    - 1/28  11:15-16:45
         - 1h to prep and discuss, 1h to assemble, 3h of reaction, and 30 min or so for a plate read
-    - 1/28 (Wed) 11:30-12:30
+    - 1/29  11:30-12:30
         -  quick follow-up training on data analysis of cell-free systems
-    - Karly, Sheifeng, Soor will train about cell-free skills
+        - Do the cell-free rxn again
+
+3. Sheifeng - cell free lysate
+    - week of 2/9
