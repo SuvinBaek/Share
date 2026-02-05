@@ -17,6 +17,7 @@
     - plasmid extract : ■ □ □
     - gel electrophorsis :  ■ □ □
     - PCR :  ■ □ □
+    - transformation : □ □ □
 
 2. Soor - cell free
     - 1/27  1:00-15:30 : theoretical cell-free overview
