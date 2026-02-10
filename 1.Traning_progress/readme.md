@@ -13,8 +13,8 @@
     - striking : ■ ■ ■ 
     - cloning : ■ □ □
     - Cell growth : ■ □ □
-    - gDNA extract : ■ □ □
-    - plasmid extract : ■ □ □
+    - gDNA extract : ■ ■ □
+    - plasmid extract : ■ ■ □
     - gel electrophorsis :  ■ □ □
     - PCR :  ■ □ □
     - transformation : □ □ □
