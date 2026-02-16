@@ -27,5 +27,15 @@
         -  quick follow-up training on data analysis of cell-free systems
         - Do the cell-free rxn again
 
-3. Sheifeng - cell free lysate
-    - week of 2/9
+3. Sheifeng - cell free lysate (MJ)
+    - 2/9 10:00-12:30 : Media + solution prepare
+    - 2/9 17:00-17:30 : Inoculation
+    - 2/10 9:15-13:00 : wash cells
+    - 2/11 9:00-12:00 : Sonication
+    - 2/11 13:00-15:00 : Run off rxn
+
+4. Soor - cell free lysate (VN)
+    - 2/22 (Sun) ~ 2/25 (Wed)
+
+5. Felicia - competent cell
+    - 2/17 (Tue) 12:00-17:00
