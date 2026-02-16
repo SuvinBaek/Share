@@ -35,7 +35,7 @@
     - 2/11 13:00-15:00 : Run off rxn
 
 4. Soor - cell free lysate (VN)
-    - 2/22 (Sun) ~ 2/25 (Wed)
+    - 2/22 (Sun) - 2/25 (Wed)
 
 5. Felicia - competent cell
     - 2/17 (Tue) 12:00-17:00
